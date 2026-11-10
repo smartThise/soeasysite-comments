@@ -1,0 +1,13 @@
+{
+  "id": "8aacf812-baad-41a7-974b-53203a578129",
+  "page": "/soeasy/",
+  "body": "SoEasySite 联调测试：通过 GitHub 登录，从网页发表评论，并验证自动生成和合并 PR。",
+  "replyTo": null,
+  "author": {
+    "id": 229333270,
+    "login": "smartThise",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229333270?v=4",
+    "profileUrl": "https://github.com/smartThise"
+  },
+  "createdAt": "2026-11-10T10:20:41.707Z"
+}
