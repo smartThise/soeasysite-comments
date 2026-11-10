@@ -1,0 +1,13 @@
+{
+  "id": "23fbded6-4768-4723-8e21-ff6cdf2b8f3f",
+  "page": "/soeasy/",
+  "body": "回复联调测试：确认回复与原评论关联，并独立保存为自动合并的 PR。",
+  "replyTo": "8aacf812-baad-41a7-974b-53203a578129",
+  "author": {
+    "id": 229333270,
+    "login": "smartThise",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229333270?v=4",
+    "profileUrl": "https://github.com/smartThise"
+  },
+  "createdAt": "2026-11-10T10:21:09.589Z"
+}
